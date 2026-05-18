@@ -113,8 +113,9 @@ export default function Home() {
             </p>
 
             <p className="mb-5 text-lg">
-              I'm a linguist and former teacher who has worked in the corporate
-              sector in London, New Delhi and Hong Kong.
+              I'm a linguist, former teacher and have worked in the corporate
+              sector in the UK and internationally. I understand the stresses of 
+              working under pressure - in the classroom and beyond.
             </p>
 
             <p className="text-lg">
