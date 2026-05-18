@@ -13,7 +13,7 @@ export default function Home() {
 
             <p className="text-2xl mb-8">
               Helping people move beyond burnout, overthinking,
-              anxiety and subconscious patterns through calm,
+              anxiety and subconscious patterns through
               solution focused hypnotherapy.
             </p>
 
@@ -37,23 +37,23 @@ export default function Home() {
             </p>
 
             <p className="mb-6 text-lg">
-              Hypnotherapy works at the subconscious level, where these
+              Hypnotherapy works at the subconscious level, where negative 
               patterns have become your default operating system.
             </p>
 
             <p className="text-lg">
-              The result is greater creative flow, emotional regulation
+              The result is greater creative flow, better emotional regulation
               and a renewed sense of clarity.
             </p>
           </div>
 
           <div>
             <h2 className="text-4xl mb-8 text-deep">
-              How is this different from traditional hypnotherapy?
+              How is this different from traditional therapy?
             </h2>
 
             <p className="mb-6 text-lg">
-              Solution focused hypnotherapy focuses on where you want to go,
+              Solution focused hypnotherapy looks at where you want to go,
               rather than repeatedly analysing the past.
             </p>
 
@@ -75,7 +75,8 @@ export default function Home() {
             <div className="space-y-8">
               <div>
                 <h3 className="text-2xl mb-3">A calm, confidential conversation</h3>
-                <p>We begin by talking through what you'd like to change or improve.</p>
+                <p>We begin by talking through what's going well for you, we define your
+                  inner strenghts and create a vision of the life you want to live.</p>
               </div>
 
               <div>
@@ -108,11 +109,11 @@ export default function Home() {
 
             <p className="mb-5 text-lg">
               I'm Helen O'Gorman, a clinical hypnotherapist specialising
-              in creative performance and subconscious pattern change.
+              in enhancing creative performance and subconscious pattern change.
             </p>
 
             <p className="mb-5 text-lg">
-              I'm a linguist and former teacher who worked in the corporate
+              I'm a linguist and former teacher who has worked in the corporate
               sector in London, New Delhi and Hong Kong.
             </p>
 
@@ -141,14 +142,14 @@ export default function Home() {
               <p className="italic mb-4">
                 "At age 70, I finally feel free from anxiety."
               </p>
-              <p>— Bryony, France</p>
+              <p>— B, France</p>
             </div>
 
             <div className="bg-white p-6 rounded-xl">
               <p className="italic mb-4">
                 "Extremely helpful and eye opening."
               </p>
-              <p>— Kathmandu</p>
+              <p>— A happy client in Kathmandu</p>
             </div>
 
             <div className="bg-white p-6 rounded-xl">
@@ -176,11 +177,6 @@ export default function Home() {
             <div className="flex justify-between border-b pb-4">
               <span>Hypnotherapy Session (60 minutes)</span>
               <span>£60</span>
-            </div>
-
-            <div className="flex justify-between border-b pb-4">
-              <span>Phobias (4 sessions)</span>
-              <span>£200</span>
             </div>
 
             <div className="flex justify-between border-b pb-4">
