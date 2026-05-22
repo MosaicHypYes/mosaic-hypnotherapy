@@ -9,19 +9,21 @@ export default function Footer() {
         </div>
 
         <div className="space-y-2">
-       <a
-  href="https://www.instagram.com/mosaic_hypyes"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="underline"
->
-  Instagram: @mosaic_hypyes
-</a>
-          <a href="mailto:hello@mosaichypnotherapy.com">
-  hello@mosaichypnotherapy.com
-</a>
-        </div>
-      </div>
+  <a
+    href="https://www.instagram.com/mosaic_hypyes"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="block underline"
+  >
+    Instagram: @mosaic_hypyes
+  </a>
+  <a
+    href="mailto:hello@mosaichypnotherapy.com"
+    className="block underline"
+  >
+    hello@mosaichypnotherapy.com
+  </a>
+</div>
     </footer>
   );
 }
