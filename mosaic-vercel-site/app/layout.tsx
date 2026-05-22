@@ -9,14 +9,11 @@ export const metadata = {
     "Solution focused hypnotherapy for burnout, anxiety, overthinking and subconscious patterns. Online sessions available worldwide.",
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
-  return (
-    <html lang="en">
-      <body>
-        <Header />
-        {children}
-        <Footer />
-      </body>
-    </html>
-  );
-}
+export const metadata = {
+  title: "Mosaic Hypnotherapy | Solution Focused Hypnotherapy",
+  description:
+    "Solution focused hypnotherapy for burnout, anxiety, overthinking and subconscious patterns. Online sessions available worldwide.",
+  icons: {
+    icon: "/logo.jpg",
+  },
+};
