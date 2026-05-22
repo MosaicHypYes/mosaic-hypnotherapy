@@ -13,9 +13,14 @@ export default function Header() {
           </div>
         </div>
 
-        <a href="#book" className="bg-deep text-white px-6 py-3 rounded-xl">
-          Book a Consultation
-        </a>
+        <a
+  href="https://calendly.com/helen-ogorman/new-meeting?hide_event_type_details=1&hide_gdpr_banner=1"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-deep text-white px-6 py-3 rounded-xl"
+>
+  Book a Consultation
+</a>
       </div>
     </header>
   );
