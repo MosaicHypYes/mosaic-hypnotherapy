@@ -9,3 +9,14 @@ export const metadata = {
     "Solution focused hypnotherapy for overcoming burnout, anxiety, overthinking and changing subconscious patterns. 
     Online sessions available worldwide.",
 };
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="en">
+      <body>
+        <Header />
+        {children}
+        <Footer />
+      </body>
+    </html>
+  );
+}
