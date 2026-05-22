@@ -14,7 +14,7 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="block underline"
           >
-            Instagram: @mosaic_hypyes
+            @mosaic_hypyes
           </a>
           <a
             href="mailto:hello@mosaichypnotherapy.com"
