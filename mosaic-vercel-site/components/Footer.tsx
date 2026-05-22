@@ -10,7 +10,9 @@ export default function Footer() {
 
         <div className="space-y-2">
           <p>Instagram: @mosaic_hypyes</p>
-          <p>hello@mosaichypnotherapy.com</p>
+          <a href="mailto:hello@mosaichypnotherapy.com">
+  hello@mosaichypnotherapy.com
+</a>
         </div>
       </div>
     </footer>
