@@ -12,7 +12,7 @@ export const metadata = {
 export const metadata = {
   title: "Mosaic Hypnotherapy | Solution Focused Hypnotherapy",
   description:
-    "Solution focused hypnotherapy for burnout, anxiety, overthinking and subconscious patterns. Online sessions available worldwide.",
+    "Solution focused hypnotherapy overcoming burnout, anxiety, overthinking and changing subconscious patterns. Online sessions available worldwide.",
   icons: {
     icon: "/logo.jpg",
   },
