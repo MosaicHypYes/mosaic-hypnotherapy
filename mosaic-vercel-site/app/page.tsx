@@ -17,9 +17,13 @@ export default function Home() {
               solution focused hypnotherapy.
             </p>
 
-            <button className="bg-deep text-white px-8 py-4 rounded-xl text-lg">
-              Book a Consultation
-            </button>
+            <a href="https://calendly.com/helen-ogorman/new-meeting?hide_event_type_details=1&hide_gdpr_banner=1"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-block bg-deep text-white px-8 py-4 rounded-xl text-lg"
+>
+  Book a Consultation
+</a>
           </div>
         </div>
       </section>
