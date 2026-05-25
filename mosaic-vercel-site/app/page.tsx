@@ -28,15 +28,15 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="bg-cream py-8 border-y">
+      <section className="bg-cream py-5 border-y">
   <div className="container-custom flex flex-col items-center gap-4 text-center">
-    <p className="text-sm uppercase tracking-widest text-deep/70">
+    <p className="text-xs uppercase tracking-widest text-deep/70">
       Professional membership
     </p>
     <img
       src="/NBFMP-green-logo-on-white-REGISTERED-768x361.webp"
       alt="NBFMP registered professional member logo"
-      className="h-14 w-auto object-contain"
+      className="h-10 w-auto object-contain"
     />
   </div>
 </section>
