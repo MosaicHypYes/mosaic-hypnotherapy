@@ -63,11 +63,12 @@ export default function Home() {
               and a renewed sense of clarity.
             </p>
             
-            <p className="text-lg">
+            <p className="mb-6 text-lg">
               Online sessions mean you sit in the comfort of your own home, which helps
               anchor changes in your environment. We engage your imagination to challenge beliefs
               and change limiting habits and behaviours. The hard work is all done in your mind.
             </p>
+            
           </div>
 
           <div>
