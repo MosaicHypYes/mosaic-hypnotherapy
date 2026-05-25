@@ -26,6 +26,9 @@ export default function Footer() {
   Privacy Policy
 </a>
         </div>
+        <a href="/credentials" className="block underline">
+  Credentials
+</a>
       </div>
     </footer>
   );
