@@ -80,7 +80,7 @@ export default function Home() {
               <div>
                 <h3 className="text-2xl mb-3">A calm, confidential conversation</h3>
                 <p>We begin by talking through what's going well for you, we define your
-                  inner strenghts and create a vision of the life you want to live.</p>
+                  inner strengths and create a vision of the life you want to live.</p>
               </div>
 
               <div>
