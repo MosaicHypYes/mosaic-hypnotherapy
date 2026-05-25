@@ -19,7 +19,7 @@ export default function Header() {
   rel="noopener noreferrer"
   className="bg-deep text-white px-6 py-3 rounded-xl"
 >
-  Book a Consultation
+  Book a Free Consultation
 </a>
       </div>
     </header>
