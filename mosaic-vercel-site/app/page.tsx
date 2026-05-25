@@ -31,7 +31,7 @@ export default function Home() {
       <section className="bg-cream py-5 border-y">
   <div className="container-custom flex flex-col items-center gap-4 text-center">
     <p className="text-xs uppercase tracking-widest text-deep/70">
-      Professional membership
+      Registered Practitioner
     </p>
     <img
       src="/NBFMP-green-logo-on-white-REGISTERED-768x361.webp"
