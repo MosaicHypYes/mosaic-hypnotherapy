@@ -12,9 +12,9 @@ export default function Home() {
             </h1>
 
             <p className="text-2xl mb-8">
-              Move beyond burnout, overthinking,
-              anxiety and subconscious patterns through
-              Solution Focused Hypnotherapy.
+              Move beyond burnout, overthinking and
+              anxiety. Rewire subconscious patterns
+              and remove limiting beliefs.
             </p>
 
             <a href="https://calendly.com/helen-ogorman/new-meeting?hide_event_type_details=1&hide_gdpr_banner=1"
