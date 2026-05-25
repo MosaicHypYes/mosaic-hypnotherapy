@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "Credentials | Mosaic Hypnotherapy",
+  description:
+    "Professional membership and qualifications for Helen O'Gorman at Mosaic Hypnotherapy.",
+};
 export default function Credentials() {
   return (
     <main className="container-custom py-16">
