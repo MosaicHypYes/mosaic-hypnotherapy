@@ -1,3 +1,9 @@
+export const metadata = {
+  title: "Privacy Policy | Mosaic Hypnotherapy",
+  description:
+    "Privacy policy for Mosaic Hypnotherapy, including how enquiries, bookings and website analytics are handled.",
+};
+
 export default function PrivacyPolicy() {
   return (
     <main className="container-custom py-16">
