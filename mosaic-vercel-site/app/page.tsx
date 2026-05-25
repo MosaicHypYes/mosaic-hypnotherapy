@@ -45,7 +45,7 @@ export default function Home() {
         <div className="container-custom grid md:grid-cols-2 gap-16">
           <div>
             <h2 className="text-4xl mb-8 text-deep">
-              How does Solution Focused Hypnotherapy work?
+              How does online Solution Focused Hypnotherapy work?
             </h2>
 
             <p className="mb-6 text-lg">
@@ -61,6 +61,12 @@ export default function Home() {
             <p className="text-lg">
               The result is greater creative flow, better emotional regulation
               and a renewed sense of clarity.
+            </p>
+            
+            <p className="text-lg>
+              Online sessions mean you sit in the comfort of your own home, which helps
+              anchor changes in your environment. We engage your imagination to challenge beliefs
+              and change limiting habits and behaviours. The hard work is all done in your mind.
             </p>
           </div>
 
@@ -86,12 +92,12 @@ export default function Home() {
         <div className="container-custom grid md:grid-cols-2 gap-16 items-start">
           <div>
             <h2 className="text-4xl mb-10 text-deep">
-              What to Expect in a Session
+              What to expect in an online hypnotherapy session
             </h2>
 
             <div className="space-y-8">
               <div>
-                <h3 className="text-2xl mb-3">A calm, confidential conversation</h3>
+                <h3 className="text-2xl mb-3">A calm, confidential online conversation</h3>
                 <p>We begin by talking through what's going well for you, we define your
                   inner strengths and create a vision of the life you want to live.</p>
               </div>
