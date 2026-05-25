@@ -81,9 +81,13 @@ export default function Home() {
               rather than repeatedly analysing the past.
             </p>
 
-            <p className="text-lg">
+            <p className="mb-6 text-lg">
               Sessions combine modern neuroscience, psychotherapy and hypnosis
               to create practical forward movement.
+            </p>
+            <p className="text-lg">
+              The focus is on building confidence, resilience and small practical shifts
+              that support change in everyday life.
             </p>
           </div>
         </div>
