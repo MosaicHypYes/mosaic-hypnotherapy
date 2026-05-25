@@ -20,7 +20,7 @@ export default function Credentials() {
         </section>
 
         <section className="space-y-4">
-          <h2 className="text-2xl">Training Certificate</h2>
+          <h2 className="text-2xl">Qualifications</h2>
           <img
             src="/Dch cert - Helen OGorman.jpeg"
             alt="Diploma certificate for Helen O'Gorman"
