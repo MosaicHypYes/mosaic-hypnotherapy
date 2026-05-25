@@ -7,10 +7,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        cream: "#F7F2EA",
-        sage: "#8EA08C",
-        deep: "#1F4A46",
-        sand: "#E8DCCB"
+        cream: "#F8F3EA",
+        sage: "#8FA384",
+        deep: "#214E43",
+        sand: "#E6D8BE"
       }
     }
   },
