@@ -121,6 +121,13 @@ export default function Home() {
                 <h3 className="text-2xl mb-3">Gradual, lasting change</h3>
                 <p>Clients notice calmer thinking and more ease in day-to-day life.</p>
               </div>
+              <div>
+                <h3 className="text-2xl mb-3">A practical focus between sessions</h3>
+                <p>
+                Each session supports small, manageable changes that help you build
+                confidence, resilience and a steadier relationship with your thoughts.
+                </p>
+</div>
             </div>
           </div>
 
