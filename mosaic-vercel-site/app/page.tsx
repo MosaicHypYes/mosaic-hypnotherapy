@@ -58,7 +58,7 @@ export default function Home() {
               patterns have become your default operating system.
             </p>
 
-            <p className="text-lg">
+            <p className="mb-6 text-lg">
               The result is greater creative flow, better emotional regulation
               and a renewed sense of clarity.
             </p>
