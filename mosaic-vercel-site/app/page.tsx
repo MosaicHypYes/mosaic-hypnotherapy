@@ -12,9 +12,9 @@ export default function Home() {
             </h1>
 
             <p className="text-2xl mb-8">
-              Helping people move beyond burnout, overthinking,
+              Move beyond burnout, overthinking,
               anxiety and subconscious patterns through
-              solution focused hypnotherapy.
+              Solution Focused Hypnotherapy.
             </p>
 
             <a href="https://calendly.com/helen-ogorman/new-meeting?hide_event_type_details=1&hide_gdpr_banner=1"
@@ -22,7 +22,7 @@ export default function Home() {
   rel="noopener noreferrer"
   className="inline-block bg-deep text-white px-8 py-4 rounded-xl text-lg"
 >
-  Book a Consultation
+  Book a Free Consultation
 </a>
           </div>
         </div>
@@ -45,7 +45,7 @@ export default function Home() {
         <div className="container-custom grid md:grid-cols-2 gap-16">
           <div>
             <h2 className="text-4xl mb-8 text-deep">
-              How does solution focused hypnotherapy work?
+              How does Solution Focused Hypnotherapy work?
             </h2>
 
             <p className="mb-6 text-lg">
@@ -70,7 +70,7 @@ export default function Home() {
             </h2>
 
             <p className="mb-6 text-lg">
-              Solution focused hypnotherapy looks at where you want to go,
+              Solution Focused Hypnotherapy looks at where you want to go,
               rather than repeatedly analysing the past.
             </p>
 
@@ -130,13 +130,13 @@ export default function Home() {
             </p>
 
             <p className="mb-5 text-lg">
-              I'm a linguist, former teacher and have worked in the corporate
-              sector in the UK and internationally. I understand the stresses of 
-              working under pressure - in the classroom and beyond.
+              I'm a linguist and former teacher who worked in the corporate
+              sector. I understand the stresses of  working under pressure - 
+              in the classroom and beyond.
             </p>
 
             <p className="text-lg">
-              I offer hypnotherapy sessions online in English, French and Spanish.
+              Book for hypnotherapy sessions online in English, French and Spanish.
             </p>
           </div>
         </div>
