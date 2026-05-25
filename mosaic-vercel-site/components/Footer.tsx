@@ -22,6 +22,9 @@ export default function Footer() {
           >
             hello@mosaichypnotherapy.com
           </a>
+          <a href="/privacy" className="block underline">
+  Privacy Policy
+</a>
         </div>
       </div>
     </footer>
