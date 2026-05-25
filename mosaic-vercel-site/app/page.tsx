@@ -137,8 +137,8 @@ export default function Home() {
             <Image
               src="/helen.jpg"
               alt="Helen O'Gorman"
-              width={400}
-              height={500}
+              width={320}
+              height={400}
               className="rounded-2xl mb-8"
             />
 
