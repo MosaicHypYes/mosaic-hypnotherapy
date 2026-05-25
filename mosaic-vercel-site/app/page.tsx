@@ -134,13 +134,18 @@ export default function Home() {
           <div className="bg-cream p-8 rounded-2xl">
             <h2 className="text-4xl mb-8 text-deep">About Me</h2>
 
-            <Image
-              src="/helen.jpg"
-              alt="Helen O'Gorman"
-              width={320}
-              height={400}
-              className="rounded-2xl mb-8"
-            />
+            <figure className="mb-8">
+  <Image
+    src="/helen.jpg"
+    alt="Helen O'Gorman, clinical hypnotherapist at Mosaic Hypnotherapy"
+    width={320}
+    height={400}
+    className="rounded-2xl"
+  />
+  <figcaption className="mt-2 text-sm text-deep/70">
+    Helen O&apos;Gorman, Clinical Hypnotherapist
+  </figcaption>
+</figure>
 
             <p className="mb-5 text-lg">
               I'm Helen O'Gorman, a clinical hypnotherapist specialising
