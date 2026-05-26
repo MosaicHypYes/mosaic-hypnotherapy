@@ -36,7 +36,7 @@ export default function Home() {
     <img
       src="/NBFMP-green-logo-on-white-REGISTERED-768x361.webp"
       alt="NBFMP registered professional member logo"
-      className="h-10 w-auto object-contain"
+      className="h-14 w-auto object-contain"
     />
   </div>
 </section>
