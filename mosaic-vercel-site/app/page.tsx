@@ -35,7 +35,7 @@ export default function Home() {
     </p>
     <img
       src="/NBFMP-green-logo-on-white-REGISTERED-768x361.webp"
-      alt="NBFMP registered professional member logo"
+      alt="National Board for Modern Psychotherapy registered practitioner logo"
       className="h-14 w-auto object-contain"
     />
   </div>
