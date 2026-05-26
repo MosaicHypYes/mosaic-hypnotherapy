@@ -143,7 +143,7 @@ export default function Home() {
     className="rounded-2xl"
   />
   <figcaption className="mt-2 text-sm text-deep/70">
-    Helen O&apos;Gorman, Clinical Hypnotherapist
+    Helen O&apos;Gorman, DCH, Clinical Hypnotherapist
   </figcaption>
 </figure>
 
