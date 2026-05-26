@@ -4,14 +4,14 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main>
-      <section className="bg-[url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1600&auto=format&fit=crop')] bg-cover bg-center min-h-[520px] flex items-center">
+      <section className="bg-[url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1600&auto=format&fit=crop')] bg-cover bg-center min-h-[560px] flex items-center py-10">
         <div className="container-custom">
-          <div className="bg-white/70 backdrop-blur-sm p-10 max-w-2xl rounded-2xl">
-            <h1 className="text-6xl leading-tight mb-6 text-deep">
+          <div className="bg-white/75 backdrop-blur-sm p-6 md:p-10 max-w-2xl rounded-2xl">
+            <h1 className="text-4xl md:text-6xl leading-tight mb-6 text-deep">
               Solution Focused Hypnotherapy
             </h1>
 
-            <p className="text-2xl mb-8">
+            <p className="text-lg md:text-2xl mb-8">
               Move beyond burnout, overthinking and
               anxiety. Rewire subconscious patterns
               and remove limiting beliefs.
@@ -20,7 +20,7 @@ export default function Home() {
             <a href="https://calendly.com/helen-ogorman/new-meeting?hide_event_type_details=1&hide_gdpr_banner=1"
   target="_blank"
   rel="noopener noreferrer"
-  className="inline-block bg-deep text-white px-8 py-4 rounded-xl text-lg"
+  className="inline-block bg-deep text-white px-6 md:px-8 py-3 md:py-4 rounded-xl text-base md:text-lg"
 >
   Book a Free Consultation
 </a>
