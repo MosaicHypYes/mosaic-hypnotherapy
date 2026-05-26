@@ -137,7 +137,7 @@ export default function Home() {
             <figure className="mb-8">
   <Image
     src="/helen.jpg"
-    alt="Helen-OGorman-clinical-hypnotherapist-Mosaic-Hypnotherapy"
+    alt="Helen O'Gorman, clinical hypnotherapist at Mosaic Hypnotherapy"
     width={320}
     height={400}
     className="rounded-2xl"
