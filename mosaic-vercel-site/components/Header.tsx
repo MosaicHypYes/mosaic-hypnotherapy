@@ -12,7 +12,14 @@ export default function Header() {
          <p className="tracking-[0.4em] text-sm">HYPNOTHERAPY</p>
         </div>
         </div>
-
+<a
+  href="https://instagram.com/yourusername"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="nav-link"
+>
+  Instagram
+</a>
         <a
   href="https://calendly.com/mosaic_hypnotherapy/new-meeting?hide_event_type_details=1&hide_gdpr_banner=1"
   target="_blank"
