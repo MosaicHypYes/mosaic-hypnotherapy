@@ -14,7 +14,7 @@ export default function Header() {
         </div>
 
         <a
-  href="https://calendly.com/helen-ogorman/new-meeting?hide_event_type_details=1&hide_gdpr_banner=1"
+  href="https://calendly.com/mosaic_hypnotherapy/new-meeting?hide_event_type_details=1&hide_gdpr_banner=1"
   target="_blank"
   rel="noopener noreferrer"
   className="bg-deep text-white px-4 py-3 sm:px-6 sm:py-3 rounded-xl text-sm sm:text-base text-center"
