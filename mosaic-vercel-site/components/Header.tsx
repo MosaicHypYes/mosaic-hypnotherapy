@@ -13,7 +13,7 @@ export default function Header() {
         </div>
         </div>
 <a
-  href="https://instagram.com/yourusername"
+  href="https://instagram.com/mosaic_hypyes"
   target="_blank"
   rel="noopener noreferrer"
   className="nav-link"
