@@ -18,7 +18,7 @@ export default function Home() {
             </p>
 
 <a
-  href="mailto:hello@mosaichypnotherapy.com?subject=Free%20Consultation%20Enquiry"
+  href="mailto:hello@mosaichypnotherapy.com?subject=Enquiry"
   className="inline-block bg-deep text-white px-6 md:px-8 py-3 md:py-4 rounded-xl text-base md:text-lg"
 >
   Book a Free Consultation
