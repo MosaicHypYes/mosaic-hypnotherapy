@@ -13,17 +13,7 @@ export default function Header() {
         </div>
         </div>
 <a
-  href="https://instagram.com/mosaic_hypyes"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="nav-link"
->
-  Instagram
-</a>
-        <a
-  href="https://calendly.com/mosaic_hypnotherapy/new-meeting?hide_event_type_details=1&hide_gdpr_banner=1"
-  target="_blank"
-  rel="noopener noreferrer"
+  href="mailto:hello@mosaichypnotherapy.com?subject=Free%20Consultation%20Enquiry"
   className="bg-deep text-white px-4 py-3 sm:px-6 sm:py-3 rounded-xl text-sm sm:text-base text-center"
 >
   Book a Free Consultation
