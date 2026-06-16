@@ -17,9 +17,8 @@ export default function Home() {
               and remove limiting beliefs.
             </p>
 
-            <a href="https://calendly.com/mosaic_hypnotherapy/new-meeting?hide_event_type_details=1&hide_gdpr_banner=1"
-  target="_blank"
-  rel="noopener noreferrer"
+<a
+  href="mailto:hello@mosaichypnotherapy.com?subject=Free%20Consultation%20Enquiry"
   className="inline-block bg-deep text-white px-6 md:px-8 py-3 md:py-4 rounded-xl text-base md:text-lg"
 >
   Book a Free Consultation
