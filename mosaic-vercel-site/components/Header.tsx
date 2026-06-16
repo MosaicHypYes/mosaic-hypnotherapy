@@ -13,7 +13,7 @@ export default function Header() {
         </div>
         </div>
 <a
-  href="mailto:hello@mosaichypnotherapy.com?subject=Free%20Consultation%20Enquiry"
+  href="mailto:hello@mosaichypnotherapy.com?subject=Enquiry"
   className="bg-deep text-white px-4 py-3 sm:px-6 sm:py-3 rounded-xl text-sm sm:text-base text-center"
 >
   Book a Free Consultation
