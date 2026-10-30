@@ -11,7 +11,8 @@ export default function Credentials() {
       <div className="space-y-8 text-lg leading-8">
         <p>
           I am a registered practitioner with the National Board for Modern
-          Psychotherapy and hold a Diploma in Clinical Hypnotherapy. 
+          Psychotherapy and hold a Diploma in Clinical Hypnotherapy and a 
+          Hypnotherapy in Practice Diploma, awarded ny the National Council for Hypnotherapy.
         </p>
 
         <section className="space-y-4">
