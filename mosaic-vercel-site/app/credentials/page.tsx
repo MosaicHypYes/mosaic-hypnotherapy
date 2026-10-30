@@ -24,14 +24,27 @@ export default function Credentials() {
           />
         </section>
 
-        <section className="space-y-4">
-          <h2 className="text-2xl">Qualifications</h2>
-          <img
-            src="/DCH - Helen Cert.jpg"
-            alt="Diploma certificate for Helen O'Gorman"
-            className="w-full max-w-3xl rounded border"
-          />
-        </section>
+       <section className="space-y-4">
+  <h2 className="text-2xl">Qualifications</h2>
+  
+  <div className="space-y-4">
+    <img
+      src="/DCH - Helen Cert.jpg"
+      alt="Diploma certificate for Helen O'Gorman"
+      className="w-full max-w-3xl rounded border"
+    />
+    
+    <a 
+      href="/NCH%20Cert.pdf" 
+      target="_blank" 
+      rel="noopener noreferrer" 
+      className="inline-block text-blue-600 hover:text-blue-800 underline font-medium pt-2"
+    >
+      View National Council for Hypnotherapy (NCH) Certificate (PDF)
+    </a>
+  </div>
+</section>
+
       </div>
     </main>
   );
