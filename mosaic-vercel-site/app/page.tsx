@@ -21,7 +21,7 @@ export default function Home() {
   href="mailto:hello@mosaichypnotherapy.com?subject=Enquiry"
   className="inline-block bg-deep text-white px-6 md:px-8 py-3 md:py-4 rounded-xl text-base md:text-lg"
 >
-  Book a Free Consultation
+  Book a Consultation
 </a>
           </div>
         </div>
@@ -210,8 +210,8 @@ export default function Home() {
 
           <div className="space-y-5 text-xl">
             <div className="flex justify-between border-b pb-4">
-              <span>Initial Consultation (50 minutes)</span>
-              <span>FREE</span>
+              <span>Initial Consultation (30 minutes)</span>
+              <span>£25</span>
             </div>
 
             <div className="flex justify-between border-b pb-4">
