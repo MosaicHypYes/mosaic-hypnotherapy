@@ -100,13 +100,12 @@ export default function Home() {
               {/* Book Cover */}
               <div className="flex justify-center">
                 <Image
-                  src="/overcoming-overthinking-cover.png"
-                  alt="Overcoming Overthinking by Helen O'Gorman"
-                  width={768}
-                  height={1200}
-                  className="w-full max-w-[260px] h-auto rounded-lg shadow-md"
-                />
-              </div>
+  src="/overcoming-overthinking-cover.png"
+  alt="Overcoming Overthinking by Helen O'Gorman"
+  width={768}
+  height={1200}
+  className="w-full max-w-[260px] h-auto rounded-lg shadow-md"
+/>
 
               {/* Book Description */}
               <div>
