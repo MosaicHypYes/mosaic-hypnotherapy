@@ -142,9 +142,9 @@ export default function Home() {
       <section className="py-20 bg-white">
         <div className="container-custom grid md:grid-cols-2 gap-16 items-start">
           <div>
-            <div id="expect">
-              What to expect in an online hypnotherapy session
-            </h2>
+            <h2 id="expect" className="text-4xl mb-10 text-deep">
+  What to expect in an online hypnotherapy session
+</h2>
 
             <div className="space-y-8">
               <div>
