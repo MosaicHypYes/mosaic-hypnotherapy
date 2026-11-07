@@ -92,6 +92,53 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Overcoming Overthinking Ebook */}
+      <section className="py-20 bg-cream">
+        <div className="container-custom max-w-4xl">
+          <div className="bg-white rounded-2xl p-8 md:p-12 shadow-sm">
+           
+            <h2 className="text-4xl md:text-5xl text-deep mb-3">
+              Overcoming Overthinking
+            </h2>
+
+            <p className="text-xl italic text-deep/70 mb-8">
+              A guide to getting out of your own way.
+            </p>
+
+            <div className="space-y-5 text-lg leading-relaxed mb-8">
+              <p>
+                We all get caught in loops of repetitive thinking.
+                We replay conversations, second guess problems and
+                sometimes become our own biggest obstacle.
+              </p>
+
+              <p>
+                This guide explores why we overthink, how our
+                thinking patterns develop and how we can begin
+                to move beyond them.
+              </p>
+
+              <p>
+                Written by Helen O'Gorman, Clinical Hypnotherapist
+              </p>
+            </div>
+
+            <a
+              href="https://payhip.com/b/6vyDs"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-deep text-white px-8 py-4 rounded-xl text-lg hover:opacity-90 transition"
+            >
+              Get Your Copy – £5
+            </a>
+
+            <p className="text-sm text-deep/60 mt-4">
+              Digital download · Secure purchase through Payhip
+            </p>
+          </div>
+        </div>
+      </section>
+
       <section className="py-20 bg-white">
         <div className="container-custom grid md:grid-cols-2 gap-16 items-start">
           <div>
