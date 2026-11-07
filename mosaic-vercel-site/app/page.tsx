@@ -93,7 +93,7 @@ export default function Home() {
       </section>
 
       {/* Overcoming Overthinking Ebook */}
-      <section className="py-20 bg-cream">
+      <section id="my-book" className="py-20 bg-cream">
         <div className="container-custom max-w-4xl">
           <div className="bg-white rounded-2xl p-8 md:p-12 shadow-sm">
            
@@ -142,7 +142,7 @@ export default function Home() {
       <section className="py-20 bg-white">
         <div className="container-custom grid md:grid-cols-2 gap-16 items-start">
           <div>
-            <h2 className="text-4xl mb-10 text-deep">
+            <div id="expect">
               What to expect in an online hypnotherapy session
             </h2>
 
@@ -177,7 +177,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="bg-cream p-8 rounded-2xl">
+          <div id="about" className="bg-cream p-8 rounded-2xl">
             <h2 className="text-4xl mb-8 text-deep">About Me</h2>
 
             <figure className="mb-8">
