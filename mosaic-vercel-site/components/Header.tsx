@@ -29,15 +29,15 @@ export default function Header() {
         {/* Navigation */}
         <nav className="flex flex-wrap items-center justify-center gap-4 sm:gap-5">
 
-          <a href="#about" className="text-deep hover:opacity-70">
+          <a href="/#about" className="text-deep hover:opacity-70">
             About
           </a>
 
-          <a href="#expect" className="text-deep hover:opacity-70">
+          <a href="/#expect" className="text-deep hover:opacity-70">
             What to Expect
           </a>
 
-          <a href="#my-book" className="text-deep font-medium hover:opacity-70">
+          <a href="/#my-book" className="text-deep font-medium hover:opacity-70">
             My Book
           </a>
 
